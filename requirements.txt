@@ -1,0 +1,4 @@
+IPython == 7.16.1
+
+pandas == 1.0.5
+numpy == 1.18.5
