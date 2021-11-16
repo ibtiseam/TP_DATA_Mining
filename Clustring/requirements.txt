@@ -1,0 +1,15 @@
+cluster == 1.4.1.post2     
+imageio ==  2.5.0      
+imagesize == 1.1.0      
+importlib-metadata == 0.17     
+kmeans-pytorch == 0.3        
+matplotlib ==   3.1.0     
+notebook == 6.0.0       
+numpy == 1.16.4     
+numpydoc == 0.9.1   
+opencv-python == 4.4.0.44   
+openpyxl == 2.6.2      
+packaging == 19.0
+scikit-image == 0.15.0     
+scikit-learn == 0.21.2      
+watermark == 2.0.2  
